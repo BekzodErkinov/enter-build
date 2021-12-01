@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/Shops/Shops.module.scss"],"names":[],"mappings":"AACE,mDACE,cAAA,CACA,iBAAA,CACA,uDACE,gBAAA","file":"11.3a83be51.chunk.css","sourcesContent":[".shopsHolder {\n  .comingSoon {\n    padding: 20px 0;\n    text-align: center;\n    img {\n      margin: 20px auto;\n    }\n  }\n}"]}

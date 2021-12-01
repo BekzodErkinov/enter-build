@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/Help/Help.module.scss"],"names":[],"mappings":"AACE,gDACE,cAAA,CACA,iBAAA,CACA,oDACE,gBAAA","file":"8.8f58b3d1.chunk.css","sourcesContent":[".helpHolder {\n  .comingSoon {\n    padding: 20px 0;\n    text-align: center;\n    img {\n      margin: 20px auto;\n    }\n  }\n}"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/Announcements/Announcements.module.scss"],"names":[],"mappings":"AACE,2EACE,cAAA,CACA,iBAAA,CACA,+EACE,gBAAA","file":"6.52c6767b.chunk.css","sourcesContent":[".announcementsHolder {\n  .comingSoon {\n    padding: 20px 0;\n    text-align: center;\n    img {\n      margin: 20px auto;\n    }\n  }\n}"]}

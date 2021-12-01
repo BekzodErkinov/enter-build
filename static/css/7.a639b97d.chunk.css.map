@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/Business/Business.module.scss"],"names":[],"mappings":"AACE,4DACE,cAAA,CACA,iBAAA,CACA,gEACE,gBAAA","file":"7.a639b97d.chunk.css","sourcesContent":[".businessHolder {\n  .comingSoon {\n    padding: 20px 0;\n    text-align: center;\n    img {\n      margin: 20px auto;\n    }\n  }\n}"]}
